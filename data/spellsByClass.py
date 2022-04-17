@@ -33,6 +33,7 @@ def getSpellsNecro():
         "Ignite Blood" : Spell("Ignite Blood", 7, 218, fire()),
         "Boil Blood" : Spell("Boil Blood", 7, 136, fire()),
         "Heat Blood" : Spell("Heat Blood", 6, 88, fire()),
+        "Night Fire" : Spell("Night Fire", 9, 572, fire()),
         #disease
         "Dark Plague" : Spell("Dark Plague", 12, 308, disease()),
         "Plague" : Spell("Plague", 13, 308, disease()),
